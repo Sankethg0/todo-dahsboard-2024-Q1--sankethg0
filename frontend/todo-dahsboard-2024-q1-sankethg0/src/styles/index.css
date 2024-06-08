@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .left-nav {
+    width: 272px;
+    height: 900px;
+    gap: 0px;
+    opacity: 1; 
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .top-nav {
+    width: 1168px;
+    height: 80px;
+    left: 272px;
+    gap: 0px;
+    opacity: 1; 
+    position: absolute;
+    top: 0;
+  }
+  
+  .welcome-bar {
+    width: 1120px;
+    height: 120px;
+    top: 104px;
+    left: 296px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px solid transparent;
+    opacity: 1; 
+    position: absolute;
+  }
+  
+  .task-feed {
+    width: 656px;
+    height: 632px;
+    top: 248px;
+    left: 296px;
+    gap: 0px;
+    opacity: 1;  
+    position: absolute;
+  }
+  
+  .activity-feed {
+    width: 440px;
+    height: 363px;
+    top: 248px;
+    left: 976px;
+    gap: 0px;
+    opacity: 1;   
+    position: absolute;
+  }
+  
+  .chart {
+    width: 440px;
+    height: 253px;
+    top: 631px; 
+    left: 976px;
+    gap: 0px;
+    opacity: 1; 
+    position: absolute;
+  }
+  

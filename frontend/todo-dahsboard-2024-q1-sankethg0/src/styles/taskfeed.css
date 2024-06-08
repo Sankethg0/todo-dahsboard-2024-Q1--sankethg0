@@ -1,0 +1,58 @@
+.container-header {
+    width: 656px;
+    height: 49px;
+    margin-top: 20px; 
+    margin-left: auto; 
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0; 
+  }
+  
+  .task-tab {
+    max-width: 656px;
+    max-height: 632px;;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px; 
+  }
+  
+  .task-list {
+    width: 600px;
+    margin-top: 20px; 
+    display: flex;
+    flex-direction: column;
+    gap: 1px; 
+    background-color: #ffffff; 
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    padding: 16px; 
+  }
+  
+  .task {
+    width: 100%;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .task img {
+    margin-right: 16px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .task span {
+    margin-right: 10px; /* Space between text elements */
+  }
+  
